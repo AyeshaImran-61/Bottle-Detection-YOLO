@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Bottle']
+
+roboflow:
+  workspace: ayeshas-workspace-ojwcm
+  project: bottle-detection-nhskk
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ayeshas-workspace-ojwcm/bottle-detection-nhskk/dataset/1
