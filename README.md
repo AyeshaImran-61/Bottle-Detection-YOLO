@@ -54,7 +54,7 @@ using a custom-trained deep learning model.
 
 ## Image Detection
 
-![Image Detection](screenshots/image_detection.png)
+![Image Detection](screenshots/imagedetection.png)
 
 ---
 
