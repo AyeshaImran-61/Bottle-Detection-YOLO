@@ -60,7 +60,7 @@ using a custom-trained deep learning model.
 
 ## Model Statistics
 
-![Statistics](screenshots/model statistics.png)
+(screenshots/model statistics.png)
 
 ---
 
