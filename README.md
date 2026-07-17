@@ -58,21 +58,9 @@ using a custom-trained deep learning model.
 
 ---
 
-## Video Detection
-
-![Video Detection](screenshots/video_detection.png)
-
----
-
-## Webcam Detection
-
-![Webcam](screenshots/webcam.png)
-
----
-
 ## Model Statistics
 
-![Statistics](screenshots/statistics.png)
+![Statistics](screenshots/model statistics.png)
 
 ---
 
