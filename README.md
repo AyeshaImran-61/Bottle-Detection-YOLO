@@ -100,10 +100,10 @@ using a custom-trained deep learning model.
 
 | Metric | Value |
 |---------|-------|
-| Precision | *(Your value)* |
-| Recall | *(Your value)* |
-| mAP50 | *(Your value)* |
-| mAP50-95 | *(Your value)* |
+| Precision | *(0.575)* |
+| Recall | *(0.414)* |
+| mAP50 | *(0.464)* |
+| mAP50-95 | *(0.271)* |
 
 ---
 
